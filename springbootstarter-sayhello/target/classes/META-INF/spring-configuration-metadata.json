@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "org.newit.sayhello",
+      "type": "org.newit.springboot.starter.HelloServiceProperties",
+      "sourceType": "org.newit.springboot.starter.HelloServiceProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "org.newit.sayhello.msg",
+      "type": "java.lang.String",
+      "sourceType": "org.newit.springboot.starter.HelloServiceProperties"
+    }
+  ],
+  "hints": []
+}

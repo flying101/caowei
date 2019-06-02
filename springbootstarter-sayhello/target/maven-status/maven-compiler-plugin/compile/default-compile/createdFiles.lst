@@ -1,0 +1,4 @@
+META-INF\spring-configuration-metadata.json
+org\newit\springboot\starter\HelloServiceAutoConfiguration.class
+org\newit\springboot\starter\HelloService.class
+org\newit\springboot\starter\HelloServiceProperties.class
