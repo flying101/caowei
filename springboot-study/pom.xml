@@ -29,8 +29,13 @@
             <artifactId>spring-boot-configuration-processor</artifactId>
             <optional>true</optional>
         </dependency>
-    </dependencies>
 
+        <dependency>
+            <groupId>org.newit.springboot</groupId>
+            <artifactId>spring-boot-starter-sayhello</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 
     <build>
         <plugins>
